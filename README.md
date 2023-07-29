@@ -1,5 +1,8 @@
 # Kernighan-Lin
 Multi-module division based onKernighan-Lin algorithm
+
+参考[陈仪香](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp)老师课程：软硬件协同设计--第7章内容多模块划分方法 
+
 ## 任务图数据生成
 
 参照  [TGFF](https://robertdick.org/projects/tgff/index.html) 进行任务图生成。
